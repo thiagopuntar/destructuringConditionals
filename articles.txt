@@ -1,0 +1,3 @@
+https://medium.com/trainingcenter/iterators-em-javascript-880adef14495
+https://dmitripavlutin.com/5-interesting-uses-javascript-destructuring/
+https://scotch.io/bar-talk/5-tips-to-write-better-conditionals-in-javascript
